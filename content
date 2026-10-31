@@ -1,0 +1,9 @@
+LEGGI_PRIMA.txt      ← 1 schermata: cos'è + Ghidra in 3 passi + note chiave
+1_decompiled_c\      5.347 funzioni C + INDEX.csv
+2_reports\           DECOMP_GAME_LOGIC.csv (le 3.109 funzioni di gioco)
+                     + analisi XBE + audit qualità
+3_binary\            default_mapped_zp.bin (pronto per Ghidra) + XBE retail
+4_tools\             Script Python + BIG_FORMAT.md (formati file)
+5_data\              Catalogo 292.771 risorse + English.txt + grafo scena
+6_ghidra_scripts\    Script Java di annotazione
+
